@@ -1,4 +1,4 @@
-# 🎮 Sorry! Board Game (Java)
+# Sorry! Board Game (Java)
 
 ## Description
 Java implementation of the board game **Sorry!**, developed as part of the *CS252 - Object-Oriented Programming* course at the University of Crete.
